@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon from</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card-issuing-Last-transaction-tab" transform="translate(-18.000000, -505.000000)">
+            <g id="History-block" transform="translate(10.000000, 329.000000)">
+                <g id="Icon-from" transform="translate(8.000000, 176.000000)">
+                    <circle id="Oval-7-Copy" fill="#EFF1F3" cx="15" cy="15" r="15"></circle>
+                    <path d="M14.7666667,6.33333333 L14.7666667,22.8666667 L18.3,19.3333333 C18.4333333,19.2 18.6333333,19.2 18.7666667,19.3333333 C18.9,19.4666667 18.9,19.6666667 18.7666667,19.8 L14.6666667,23.9 C14.6,23.9666667 14.5333333,24 14.4333333,24 C14.3333333,24 14.2666667,23.9666667 14.2,23.9 L10.1,19.8 C9.96666667,19.6666667 9.96666667,19.4666667 10.1,19.3333333 C10.2333333,19.2 10.4333333,19.2 10.5666667,19.3333333 L14.1,22.8666667 L14.1,6.33333333 C14.1,6.13333333 14.2666667,6 14.4333333,6 C14.6333333,6 14.7666667,6.13333333 14.7666667,6.33333333 Z" id="Shape" stroke="#263550" stroke-width="0.3" fill="#263550" fill-rule="nonzero" transform="translate(14.433333, 15.000000) scale(1, -1) rotate(-180.000000) translate(-14.433333, -15.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
